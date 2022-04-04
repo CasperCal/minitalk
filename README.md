@@ -4,7 +4,7 @@ A project of the 42 curriculum, with as general goal to learn more about unix si
 
 Restrictions for this project:
 
-• only write, signal, sigemptyset, sigaddset, sigaction, kill, getpid, malloc, free, pause, sleep, usleep, exit
+• only write, signal, sigemptyset, sigaddset, sigaction, kill, getpid, malloc, free, pause, sleep, usleep, exit functions are allowed.
 
 • one global variable allowed (I used none).
 
