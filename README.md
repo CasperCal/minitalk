@@ -1,6 +1,6 @@
 # minitalk
 
-A project of the 42 curriculum, with as general goal to learn more about unix signals.
+A project of the 42 curriculum, with as general goal to learn more about unix signals. We had to create both a server and client program, where the client will send a string, that the server has to print if the client adressed it's PID.
 
 Restrictions for this project:
 
