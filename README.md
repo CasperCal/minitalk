@@ -5,12 +5,17 @@ A project of the 42 curriculum, with as general goal to learn more about unix si
 Restrictions for this project:
 
 • only write, signal, sigemptyset, sigaddset, sigaction, kill, getpid, malloc, free, pause, sleep, usleep, exit
+
 • one global variable allowed (I used none).
+
 • The server has to display the string pretty quickly. 
+
 • Your server should be able to receive strings from several clients in a row without
 needing to restart.
+
 • The communication between your client and your server has to be done only using
 UNIX signals.
+
 • You can only use these two signals: SIGUSR1 and SIGUSR2.
 
 Was created as a project for the 19 coding school (part of the 42 network) and passed with 100%.
